@@ -12,6 +12,15 @@ I'm an AI programming beginner, currently experimenting with vibe coding and bui
 
 ## GitHub stats
 
-![Joeylxz's stats](https://github-readme-stats.vercel.app/api?username=Joeylxz&show_icons=true&theme=default&hide_border=true)
+![joeylxz's stats](https://github-readme-stats.vercel.app/api?username=joeylxz&show_icons=true&theme=default&hide_border=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joeylxz&layout=compact&theme=synthwave&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joeylxz&layout=compact&theme=dark&hide_border=true)
+
+## Find me online
+
+- Portfolio: [joeylxz.dev](https://joeylxz.dex)
+- LinkedIn: [linkedin.com/in/joeylxz](https://linkedin.com/in/joeylxz)
+- Twitter/X: [@joeylxz](https:twitter.com/joeylxz)
+
+## Featured project
+[**My portfolio site**](https:github.com/Joey/portfolio) —— Built with Astro
